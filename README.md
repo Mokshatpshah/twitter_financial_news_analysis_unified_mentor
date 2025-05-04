@@ -14,6 +14,7 @@ This is an end-to-end machine learning project that classifies financial tweets 
 ├── vectorizer.plk          # TF-IDF vectorizer used for transforming tweet text
 ├── train_data.xlsx         # Original dataset for training
 ├── train_model.ipynb       # Jupyter Notebook for data preprocessing, training, and evaluation
+|- demo video
 ```
 
 ---
